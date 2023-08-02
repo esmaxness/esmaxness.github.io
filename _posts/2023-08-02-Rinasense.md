@@ -8,7 +8,7 @@ categories: rina-iot
 ---
 
 
-One of the my main contributions to achieve the TERMINET objectives wss the design and development of a RINA architecture for embedded devices to enable RINA networks in IoT environments. Implementing RINA modules for IoT devices is not trivial. The inherent IoT heterogeneity introduces a high complication to designing and implementing RINA modules. IoT has many technological IoT platforms, protocols, and wireless communication technologies. So, a deep analysis was required to understand the possible limitations of RINA in resource-constrained devices. 
+One of the my main contributions to achieve the TERMINET objectives was the design and development of a RINA architecture for embedded devices to enable RINA networks in IoT environments. Achieving this goal was not trivial because of IoT heterogeneity and IoT limitations on resources. The inherent IoT heterogeneity introduces a high complication to designing and implementing RINA modules. IoT has many technological IoT platforms, protocols, and wireless communication technologies. Also, IoT devices are resource-constrained in terms of CPU, memory, network and energy consumption. So, a deep analysis was required to understand the possible limitations of RINA in resource-constrained devices. 
 
 The RINAsense architecture is proposed to implement RINA in resource-constrained devices. The RINAsense architecture is organized in layers.
 
