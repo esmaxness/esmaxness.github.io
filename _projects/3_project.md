@@ -4,7 +4,7 @@ title: PIXEL
 description: Port IoT for Environmental Leverage
 img: assets/img/PixelPort.jpg
 importance: 3
-category: EU_H2020
+category: work
 related_publications: Sarabia_Jacome_2019, SeaporJournal
 ---
 

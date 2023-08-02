@@ -4,7 +4,7 @@ title: TERMINET
 description: nexT gEneRation sMart INterconnectEd ioT 
 img: assets/img/TERMINET.jpg
 importance: 1
-category: EU_H2020
+category: work
 related_publications: Sarabia_J_come_2023
 ---
 

@@ -4,7 +4,7 @@ title: PANDEMIES
 description: IoT technology for contact tracing COVID-19
 img: assets/img/pandemies.png
 importance: 2
-category: Spain Projects
+category: work
 ---
 
 ### Duration
