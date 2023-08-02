@@ -5,7 +5,7 @@ permalink: /projects/
 description: Participation in .
 nav: true
 nav_order: 2
-display_categories: [EU_H2020, Spain]
+display_categories: [EU_H2020, Spain Projects]
 horizontal: false
 ---
 
