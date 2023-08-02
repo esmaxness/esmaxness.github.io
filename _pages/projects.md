@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Participation in .
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [EU_H2020, Spain]
 horizontal: false
 ---
 
