@@ -265,7 +265,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["rina"] # these tags will be displayed on the front page of your blog
-display_categories: ["Future Internet"] # these categories will be displayed on the front page of your blog
+display_categories: ["rina-iot"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
