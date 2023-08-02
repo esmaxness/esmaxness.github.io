@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The RINAsense architecture
-date:   2015-03-15 16:40:16
+date:   2023-08-02 16:25:16
 description: Innovative architecture to prototype IoT devices in RINA networks
 tags: rina iot architecture future-internet
 categories: rina-iot
@@ -26,11 +26,14 @@ The RINAsense architecture is proposed to implement RINA in resource-constrained
 </div>
 
  
-RINASense Architecture
-•	Data Link Layer: oversees moving data into and out of a wireless link in a network. It comprises wireless technologies used in IoT environments. It provides services to the above DIFs to move data between sensors or through a RINA-based IoT gateway to edge nodes or the cloud.
-•	RINA Layer: provides all RINA components to implement a system with RINA networking capabilities. This layer provides functionalities for transmitting data, controlling the data transmission, and managing the RINA network. 
-•	Application Layer: delivers applications or services to sense the environment(sensors) and make some response (actuators).
-•	OS and Abstraction Layer: provides a runtime environment to control the previous layers' functionalities. These tasks share a single processing core using the Free Real Time Operating System (FreeRTOS). This layer relies on FreeRTOS because of its extension portability over several microcontroller platforms. In addition, this layer provides a portability sublayer to allow writing cross-platform software to control devices based on the IoT development framework for ESP-IDF, Arduino, or Linux.
+#### Architecture Layers
+<ul>
+    <li>Data Link Layer: oversees moving data into and out of a wireless link in a network. It comprises wireless technologies used in IoT environments. It provides services to the above DIFs to move data between sensors or through a RINA-based IoT gateway to edge nodes or the cloud.</li>
+    <li>RINA Layer: provides all RINA components to implement a system with RINA networking capabilities. This layer provides functionalities for transmitting data, controlling the data transmission, and managing the RINA network.</li>
+    <li>Application Layer: delivers applications or services to sense the environment(sensors) and make some response (actuators).</li>
+    <li>OS and Abstraction Layer: provides a runtime environment to control the previous layers' functionalities. These tasks share a single processing core using the Free Real Time Operating System (FreeRTOS). This layer relies on FreeRTOS because of its extension portability over several microcontroller platforms. In addition, this layer provides a portability sublayer to allow writing cross-platform software to control devices based on the IoT development framework for ESP-IDF, Arduino, or Linux.</li>
+</ul>
+
 
 
 A instance of the RINAsense architecture is available as open source in i2CAT [Github Reposiroty](https://github.com/Fundacio-i2CAT/rinasense)
