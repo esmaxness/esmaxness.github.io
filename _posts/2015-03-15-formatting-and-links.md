@@ -10,6 +10,21 @@ One of the my main contributions to achieve the TERMINET objectives was the desi
 
 The RINAsense architecture is proposed to implement RINA in resource-constrained devices. The RINAsense architecture is organized in layers.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
+
 #### Architecture Layers
 <ul>
     <li>Data Link Layer: oversees moving data into and out of a wireless link in a network. It comprises wireless technologies used in IoT environments. It provides services to the above DIFs to move data between sensors or through a RINA-based IoT gateway to edge nodes or the cloud.</li>
