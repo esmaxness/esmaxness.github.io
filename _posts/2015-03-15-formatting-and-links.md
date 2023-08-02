@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  a post with formatting and links
+title:  The RINAsense architecture
 date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
+description: innovative architecture to prototype IoT devices in RINA networks
 tags: rina
 categories: rina-iot
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+One of the my main contributions to achieve the TERMINET objectives was the design and development of a RINA architecture for embedded devices to enable RINA networks in IoT environments. Achieving this goal was not trivial because of IoT heterogeneity and IoT limitations on resources. The inherent IoT heterogeneity introduces a high complication to designing and implementing RINA modules. IoT has many technological IoT platforms, protocols, and wireless communication technologies. Also, IoT devices are resource-constrained in terms of CPU, memory, network and energy consumption. So, a deep analysis was required to understand the possible limitations of RINA in resource-constrained devices. 
 
-#### Hipster list
+The RINAsense architecture is proposed to implement RINA in resource-constrained devices. The RINAsense architecture is organized in layers.
+
+#### Architecture Layers
 <ul>
     <li>brunch</li>
     <li>fixie</li>
@@ -18,13 +20,4 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+A instance of the RINAsense architecture is available as open source in i2CAT [Github Reposiroty](https://github.com/Fundacio-i2CAT/rinasense)
