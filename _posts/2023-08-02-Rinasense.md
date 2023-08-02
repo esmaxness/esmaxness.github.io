@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The RINAsense architecture
-date:   2023-08-02 16:36:16
+date:   2023-08-02 18:10
 description: Innovative architecture to prototype IoT devices in RINA networks
 tags: rina iot architecture future-internet
 categories: rina-iot
