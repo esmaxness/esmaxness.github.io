@@ -12,18 +12,7 @@ One of the my main contributions to achieve the TERMINET objectives was the desi
 
 The RINAsense architecture is proposed to implement RINA in resource-constrained devices. The RINAsense architecture is organized in layers.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/RINAsenseArquitecture.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-</div>
-<div class="caption">
-    RINAsense Architecture
-</div>
+
 
  
 #### Architecture Layers
