@@ -1,81 +1,48 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: PANDEMIES
+description: IoT technology for contact tracing COVID-19
+img: assets/img/pandemies.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Duration
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+*Start*: Oct-2021
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+*End*: Dic-2022 
+
+&nbsp;
+
+### Description
+
+ The project was focused on understanding the propagation of COVID-19 in Catalyuna by providing a model to simulate the spread of the disease and estimate its impact. The model required several and reliable data sources to extract relevant features. From the point of view of IoT technology, it was studied the possibility to collect data on close contacts between people via a mobile phone application. This information was useful to extract features for modeling the propagation.
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+&nbsp;
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+
+### Estimated Impact
+
+A powerful stochastic tool to assess the impact of the COVID-19 in Catalonia integrating detailed demographic and mobility data. Project financed by the _Agència de Gestió d’Ajuts Universitaris i de Recerca_ (AGAUR) under the call *“Replegar-se per créixer: l’impacte de les pandèmies en un món sense fronteres visibles”*. 
+
+&nbsp;
+
+### Participation
+
+My participation focused on the development of an IoT application to collect the ibeacons propagated by the radar COVID-19 mobile applications. These contact tracing apps were based on the Apple/Google API and the GAEN protocol. They employed the Bluetooth Low Energy (BLE) technology to propagate ibeacons with contact tracing information while preserving the privary of each person. I designed and implemented an IoT-based system to collect this ibeacons under the GAEN protocol by using a smartwatch (ESP-32 based wristband). The app developed was optimized until reach an 80% of battery consumption optimization. 
+
+
+
+
+
+&nbsp;
+
+
+
+&nbsp;
+
+
+Imagen de <a href="https://pixabay.com/es/users/cromaconceptovisual-4595909/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4999857">cromaconceptovisual</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4999857">Pixabay</a>
