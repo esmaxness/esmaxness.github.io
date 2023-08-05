@@ -10,11 +10,7 @@ One of the my main contributions to achieve the TERMINET objectives was the desi
 
 The RINAsense architecture is proposed to implement RINA in resource-constrained devices. The RINAsense architecture is organized in layers.
 
-![RINASense Architecture](../assets/img/RINAsense.png)
 
-<img src="../assets/img/RINAsense2.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
 
 
