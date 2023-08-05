@@ -6,9 +6,15 @@ description: innovative architecture to prototype IoT devices in RINA networks
 tags: rina
 categories: rina-iot
 ---
-One of the my main contributions to achieve the TERMINET objectives was the design and development of a RINA architecture for embedded devices to enable RINA networks in IoT environments. Achieving this goal was not trivial because of IoT heterogeneity and IoT limitations on resources. The inherent IoT heterogeneity introduces a high complication to designing and implementing RINA modules. IoT has many technological IoT platforms, protocols, and wireless communication technologies. Also, IoT devices are resource-constrained in terms of CPU, memory, network and energy consumption. So, a deep analysis was required to understand the possible limitations of RINA in resource-constrained devices. 
+One of the my main contributions to achieve the TERMINET objectives was the design and development of a RINA architecture for embedded devices to enable RINA networks in IoT environments. Achieving this goal was not trivial because of IoT heterogeneity and IoT limitations on resources. The inherent IoT heterogeneity introduces a high complication to design and implement RINA modules for embedded systems. IoT has many technological IoT platforms, protocols, and wireless communication technologies, so the RINA modules should be able to adapt to IoT technologies. Also, IoT devices are resource-constrained in terms of CPU, memory, network and energy consumption. So, a deep analysis was required to understand the possible limitations of RINA in resource-constrained devices. 
 
 The RINAsense architecture is proposed to implement RINA in resource-constrained devices. The RINAsense architecture is organized in layers.
+
+![RINASense Architecture](assets/img/RINAsense2.jpg)
+
+<img src="assets/img/RINAsense2.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
