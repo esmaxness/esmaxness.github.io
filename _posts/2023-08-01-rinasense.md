@@ -17,15 +17,15 @@ The RINAsense architecture is proposed to implement RINA in resource-constrained
      style="float: left; margin-right: 10px;" />
 
 
-     
+
 
 <div class="row">
-    <div class="col-">
+    <div class="col-4">
     </div>
-    <div class="col-">
+    <div class="col-4">
         {% include figure.html path="assets/img/RINAsense2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-">
+    <div class="col-4">
     </div>
 </div>
 <div class="caption">
