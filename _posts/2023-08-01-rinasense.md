@@ -38,4 +38,4 @@ The RINAsense architecture is proposed to implement RINA in resource-constrained
 
 
 
-A instance of the RINAsense architecture is available as open source in i2CAT [Github Reposiroty](https://github.com/Fundacio-i2CAT/rinasense)
+A instance of the RINAsense architecture is available as open source in i2CAT [Github Reposiroty](https://github.com/Fundacio-i2CAT/rinasense). More details and experimental tests can be found in the [RINAsense conference paper](https://ieeexplore.ieee.org/document/10084905/).
