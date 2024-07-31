@@ -4,7 +4,7 @@ title: ACTIVAGE
 description: ACTivating InnoVative IoT smart living environments for AGEing well
 img: assets/img/activage.jpg
 importance: 4
-category: work
+category: European
 related_publications: Yacchirema_2018_1, Yacchirema_2018_2, Sarabia_Jacome_2019, Sarabia_J_come_2020
 ---
 

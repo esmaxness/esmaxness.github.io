@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Participation in .
+description: Participation in research and innovation projects. European Project under Horizon 2020 and Horizon Europe. Spanish national research and innovation project.  
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [European, National]
 horizontal: false
 ---
 

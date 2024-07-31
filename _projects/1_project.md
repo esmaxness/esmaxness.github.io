@@ -4,8 +4,8 @@ title: TERMINET
 description: nexT gEneRation sMart INterconnectEd ioT 
 img: assets/img/TERMINET.jpg
 importance: 1
-category: work
-related_publications: Sarabia_J_come_2023
+category: European
+related_publications: Sarabia_J_come_2023, Sarabia_J_come_2024_2, Sarabia_J_come_2024, Sarabia_Fine
 ---
 
 ### Duration
@@ -13,7 +13,7 @@ related_publications: Sarabia_J_come_2023
 *Start*: Oct-2020
 
 
-*End*: ongoing 
+*End*: Feb-2024 
 
 &nbsp;
 
