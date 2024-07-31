@@ -2,7 +2,7 @@
 layout: page
 title: PADIH Urbiotica
 description: Blackout study in Urbiotica's Zigbee network
-img: assets/img/InterIoT.jpg
+img: assets/img/Urbiotica.jpg
 importance: 7
 category: National
 related_publications: 

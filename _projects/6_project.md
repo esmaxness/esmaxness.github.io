@@ -2,7 +2,7 @@
 layout: page
 title: 6G-Diferente
 description: 6G DISTRIBUTED AND FEDERATED EXPERIMENTS IN RADIO, EDGE AND NON-TERRESTRIAL NETWORKS
-img: assets/img/InterIoT.jpg
+img: assets/img/6G.jpg
 importance: 6
 category: National
 related_publications: 
