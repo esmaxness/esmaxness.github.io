@@ -38,11 +38,6 @@ related_publications:
 
 
 
-&nbsp;
 
-### Cordis
-
-
-&nbsp;
 
 
