@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 6G-Diferente
-description: 6G DISTRIBUTED AND FEDERATED EXPERIMENTS IN RADIO, EDGE AND NON-TERRESTRIAL NETWORKS
+description: 6G Distributed and Federated Experiments in Radio, Edge and Non-Terrestrial Networks
 img: assets/img/6G.jpg
 importance: 6
 category: National
